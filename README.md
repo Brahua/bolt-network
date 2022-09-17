@@ -35,3 +35,4 @@ $ rails generate controller Pages
 $ rails s -p PORT_NUMBER
 ```
 
+![Broadway web app](app/assets/images/bolt-network-app.jpeg)
